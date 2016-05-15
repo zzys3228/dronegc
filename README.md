@@ -1,0 +1,2 @@
+# dronegc
+qgroundcontrol
